@@ -1,1 +1,1 @@
-https://brightsun-google-site.netlify.app/
+https://brightsun-site.netlify.app/
